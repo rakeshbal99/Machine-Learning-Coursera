@@ -26,6 +26,16 @@ This repository contains the solutions to all the Machine Learning and Deep Lear
   - [Week 2 - PA 4 - Optimization Methods](https://github.com/rakeshbal99/Machine-Learning-Coursera/blob/master/Deep%20Learning%20Specialisation/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Optimization%20methods.ipynb)
   - [Week 3 - PA 5 - TensorFlow Tutorial](https://github.com/rakeshbal99/Machine-Learning-Coursera/blob/master/Deep%20Learning%20Specialisation/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Tensorflow%20Tutorial.ipynb)
 
+  - Course 4: Convolutional Neural Networks
+
+  - [Week 1 - PA 1 - Convolution model - Step by Step](https://github.com/rakeshbal99/Machine-Learning-Coursera/blob/master/Deep%20Learning%20Specialisation/Convolutional%20Neural%20Networks/Convolution%20model%20-%20Step%20by%20Step.ipynb)
+  - [Week 1 - PA 2 - Convolution model - Application](https://github.com/rakeshbal99/Machine-Learning-Coursera/blob/master/Deep%20Learning%20Specialisation/Convolutional%20Neural%20Networks/Convolution%20model%20-%20Application.ipynb)
+  - [Week 2 - PA 3 - Keras - Tutorial - Happy House](https://github.com/rakeshbal99/Machine-Learning-Coursera/blob/master/Deep%20Learning%20Specialisation/Convolutional%20Neural%20Networks/Keras%20-%20Tutorial%20-%20Happy%20House.ipynb)
+  - [Week 2 - PA 4 - Residual Networks](https://github.com/rakeshbal99/Machine-Learning-Coursera/blob/master/Deep%20Learning%20Specialisation/Convolutional%20Neural%20Networks/Residual%20Networks.ipynb)
+  - [Week 3 - PA 5 - Autonomous driving application Car detection](https://github.com/rakeshbal99/Machine-Learning-Coursera/blob/master/Deep%20Learning%20Specialisation/Convolutional%20Neural%20Networks/Autonomous%20driving%20application%20Car%20detection.ipynb)
+  - [Week 4 - PA 6 - Face Recognition for the Happy House](https://github.com/rakeshbal99/Machine-Learning-Coursera/blob/master/Deep%20Learning%20Specialisation/Convolutional%20Neural%20Networks/Face%20Recognition%20for%20the%20Happy%20House.ipynb)
+  - [Week 4 - PA 7 - Art Generation with Neural Style Transfer](https://github.com/rakeshbal99/Machine-Learning-Coursera/blob/master/Deep%20Learning%20Specialisation/Convolutional%20Neural%20Networks/Art%20Generation%20with%20Neural%20Style%20Transfer.ipynb)
+
 
 ## Quiz Solutions
 
