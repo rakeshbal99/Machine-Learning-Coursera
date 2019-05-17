@@ -38,6 +38,12 @@ This repository contains the solutions to all the Machine Learning and Deep Lear
 
 - Course 5: Sequence Models
     - [Week 1 - PA 1 - Building your Recurrent Neural Network - Step by Step](https://github.com/rakeshbal99/Machine-Learning-Coursera/blob/master/Deep%20Learning%20Specialisation/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20Step%20by%20Step.ipynb)
+    - [Week 1 - PA 2 - Character level language model - Dinosaurus land](https://github.com/rakeshbal99/Machine-Learning-Coursera/blob/master/Deep%20Learning%20Specialisation/Sequence%20Models/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
+    - [Week 1 - PA 3 - Improvise a Jazz Solo with an LSTM Network](https://github.com/rakeshbal99/Machine-Learning-Coursera/blob/master/Deep%20Learning%20Specialisation/Sequence%20Models/Improvise%2Ba%2BJazz%2BSolo%2Bwith%2Ban%2BLSTM%2BNetwork%2B-%2Bv3.ipynb)
+    - [Week 2 - PA 4 - Operations on word vectors](https://github.com/rakeshbal99/Machine-Learning-Coursera/blob/master/Deep%20Learning%20Specialisation/Sequence%20Models/Operations%2Bon%2Bword%2Bvectors%2B-%2Bv2.ipynb)
+    - [Week 2 - PA 5 - Emojify!](https://github.com/rakeshbal99/Machine-Learning-Coursera/blob/master/Deep%20Learning%20Specialisation/Sequence%20Models/Emojify%2B-%2Bv2.ipynb)
+    - [Week 3 - PA 6 - Neural Machine Translation](https://github.com/rakeshbal99/Machine-Learning-Coursera/blob/master/Deep%20Learning%20Specialisation/Sequence%20Models/Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv4.ipynb)
+    - [Week 3 - PA 7 - Trigger Word Detection](https://github.com/rakeshbal99/Machine-Learning-Coursera/blob/master/Deep%20Learning%20Specialisation/Sequence%20Models/Trigger%2Bword%2Bdetection%2B-%2Bv1.ipynb)
 
 
 ## Quiz Solutions
